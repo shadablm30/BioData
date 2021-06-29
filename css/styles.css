@@ -1,0 +1,92 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    
+}
+body{
+    background-color:#fff;
+}
+
+div{
+   
+    text-align:center;  
+    margin:5px 0;
+    
+    
+}
+form{
+    position:absolute;
+    right:25%;
+    background-color:lightblue;
+    width:100vw;
+    width:100vh;
+    
+}
+h1{
+    background-color:blue;
+    color:#fff;
+    padding:2% 0;
+    font-size:35px;
+    
+}
+
+label{
+    display: inline-block;
+    width: 250px;
+    text-align: right;
+    font-weight:bold;
+    margin:10px 0;
+    padding:0 10px;
+    line-height:1.1rem;
+}
+
+.submit{
+    background-color:blue;
+    color:#fff;
+    padding:1% 0;
+   
+}
+input{
+    border:none;
+    padding:4px 0;
+    text-align:left;
+    width:200px;
+    height:20px;
+}
+
+textarea{
+    width:200px;
+    height:60px;
+    border:none;
+    text-align:left;
+}
+select{
+    border:none;
+    text-align:right;
+    width:200px;
+    height:20px;
+    
+}
+
+.sub{
+    width:150px;
+    height:40px;
+    background-color:green;
+    text-align:center;
+    color:#fff;
+
+}
+.sub:hover{
+    background-color:lightblue;
+    color:black;
+}
+
+.Set{
+    position:relative;
+    bottom:30px;
+   
+   
+  
+    
+}
